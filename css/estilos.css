@@ -1,8 +1,19 @@
 body {
-    color: deeppink;
+    color: rgb(47, 47, 47);
     text-align: center;
+    font-size: 16px;
     font-family: "arial";
+    margin: 0;
+    padding: 0;
 }
-h1{
-    
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(195, 66, 66);
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 20px;
+
 }
